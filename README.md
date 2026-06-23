@@ -1,5 +1,7 @@
 # 💫 Hakkımda:
-Merhaba ben Rojhat Çabuk. Mehmet Akif Ersoy Üniversitesi Bilgisayar Programcılığı mezunuyum. Yeni mezunum fakat kendimi her daim geliştiriyorum.
+Merhaba ben Rojhat Çabuk. Mehmet Akif Ersoy Üniversitesi Bilgisayar Programcılığı mezunuyum
+Node.js, Express.js, MySQL ve Git teknolojileri üzerinde çalışıyorum.
+Şu anda backend geliştirme ve React öğrenmeye odaklanıyorum.
 
 
 ## 🌐 Sosyal Medya:
